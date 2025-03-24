@@ -9,6 +9,7 @@ const portfolioData = {
     phone: "9101284785",
     linkedin: "https://www.linkedin.com/in/jyotishmandas85p/",
     github: "https://github.com/rishi02102017",
+    medium: "https://medium.com/@jyotishmandas85p",
   },
   profileImage: "/profile.JPG",
   summary:
@@ -201,32 +202,27 @@ export default function Portfolio() {
         <div
           style={{ fontSize: "1rem", lineHeight: 1.6, marginBottom: "1.5rem" }}
         >
-          <p>
-            <strong>Email:</strong> {portfolioData.contact.email}
-          </p>
-          <p>
-            <strong>Phone:</strong> {portfolioData.contact.phone}
-          </p>
-          <p>
-            <strong>LinkedIn:</strong>{" "}
-            <a
-              href={portfolioData.contact.linkedin}
-              target="_blank"
-              style={{ color: "#3b82f6" }}
-            >
-              View
-            </a>
-          </p>
-          <p>
-            <strong>GitHub:</strong>{" "}
-            <a
-              href={portfolioData.contact.github}
-              target="_blank"
-              style={{ color: "#3b82f6" }}
-            >
-              View
-            </a>
-          </p>
+          <p><strong>📧 Email:</strong> {portfolioData.contact.email}</p>
+<p><strong>📱 Phone:</strong> {portfolioData.contact.phone}</p>
+<p>
+  <strong>💼 LinkedIn:</strong>{" "}
+  <a href={portfolioData.contact.linkedin} target="_blank" style={{ color: "#3b82f6" }}>
+    View
+  </a>
+</p>
+<p>
+  <strong>🐙 GitHub:</strong>{" "}
+  <a href={portfolioData.contact.github} target="_blank" style={{ color: "#3b82f6" }}>
+    View
+  </a>
+</p>
+<p>
+  <strong>✍️ Medium:</strong>{" "}
+  <a href={portfolioData.contact.medium} target="_blank" style={{ color: "#3b82f6" }}>
+    View
+  </a>
+</p>
+
         </div>
         <a
           href="/Jyotishman_Das_Resume.pdf"
