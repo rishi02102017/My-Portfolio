@@ -225,7 +225,7 @@ export default function Portfolio() {
 
         </div>
         <a
-          href="/Jyotishman_Das_Resume.pdf"
+          href="/Jyotishman_Updated_Resume.pdf"
           download
           style={{
             backgroundColor: "#2563eb",
