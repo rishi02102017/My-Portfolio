@@ -94,7 +94,7 @@ const portfolioData = {
         },
         {
           name: "B.Tech in Computer Science and Engineering",
-          institution: "CIT Kokrajhar",
+          institution: "Central Institute of Technology Kokrajhar",
           duration: "2019 – 2023",
           cgpa: "8.73 CGPA",
         },
