@@ -6,7 +6,6 @@ const portfolioData = {
   title: "AI/ML Engineer | M.Tech AI @ IIT Jodhpur",
   contact: {
     email: "m24csa013@iitj.ac.in",
-    phone: "9101284785",
     linkedin: "https://www.linkedin.com/in/jyotishmandas85p/",
     github: "https://github.com/rishi02102017",
     medium: "https://medium.com/@jyotishmandas85p",
