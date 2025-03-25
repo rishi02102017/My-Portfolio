@@ -202,8 +202,6 @@ export default function Portfolio() {
           style={{ fontSize: "1rem", lineHeight: 1.6, marginBottom: "1.5rem" }}
         >
           <p><strong>📧 Email:</strong> {portfolioData.contact.email}</p>
-<p><strong>📱 Phone:</strong> {portfolioData.contact.phone}</p>
-<p>
   <strong>💼 LinkedIn:</strong>{" "}
   <a href={portfolioData.contact.linkedin} target="_blank" style={{ color: "#3b82f6" }}>
     View
