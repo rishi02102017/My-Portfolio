@@ -1,7 +1,6 @@
 # 🌐 Personal AI/ML Portfolio Website - Jyotishman Das
 
 Live Site: [my-portfolio-jyotishman-das-projects.vercel.app](https://my-portfolio-jyotishman-das-projects.vercel.app)  
-GitHub Repo: [github.com/rishi02102017/My-Portfolio](https://github.com/rishi02102017/My-Portfolio)
 
 ## 🔥 Overview
 This is a fully responsive personal portfolio website built using **React + Vite**. It showcases my profile, work experience, projects, education, and certifications in a clean, elegant, and interactive layout. Developed entirely online using CodeSandbox, versioned with GitHub, and deployed via Vercel.
